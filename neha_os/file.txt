@@ -1,0 +1,4 @@
+case $age in
+18) echo "Eighteen";;
+21) echo "Twenty one";;
+esac
